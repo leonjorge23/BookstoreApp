@@ -1,0 +1,5 @@
+C:\Users\jleon\Documents\My Web Sites\BookstoreApp\BookstoreApp\BookstoreApp\bin\BookstoreApp.dll
+C:\Users\jleon\Documents\My Web Sites\BookstoreApp\BookstoreApp\BookstoreApp\bin\BookstoreApp.pdb
+C:\Users\jleon\Documents\My Web Sites\BookstoreApp\BookstoreApp\BookstoreApp\obj\Debug\BookstoreApp.csprojResolveAssemblyReference.cache
+C:\Users\jleon\Documents\My Web Sites\BookstoreApp\BookstoreApp\BookstoreApp\obj\Debug\BookstoreApp.dll
+C:\Users\jleon\Documents\My Web Sites\BookstoreApp\BookstoreApp\BookstoreApp\obj\Debug\BookstoreApp.pdb
